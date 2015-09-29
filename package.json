@@ -1,0 +1,15 @@
+{
+  "name": "ez-protractor",
+  "version": "1.0.0",
+  "description": "A project to make working with protractor easy for both Angular and non-Angular sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Calvin Mann <calvinmann@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "phantomjs": "^1.9.18",
+    "protractor": "^2.3.0"
+  }
+}
